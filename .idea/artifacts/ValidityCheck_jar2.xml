@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ValidityCheck:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/ValidityCheck_jar2</output-path>
+    <root id="archive" name="ValidityCheck.jar">
+      <element id="module-output" name="ValidityCheck" />
+    </root>
+  </artifact>
+</component>
